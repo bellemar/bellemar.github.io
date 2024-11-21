@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.1b9efaf6.css",
-    "main.js": "/static/js/main.0ede2d76.js",
+    "main.css": "/static/css/main.2069004b.css",
+    "main.js": "/static/js/main.7533361c.js",
     "static/js/453.18e540cc.chunk.js": "/static/js/453.18e540cc.chunk.js",
     "static/media/maldivesVideo.mp4": "/static/media/maldivesVideo.dcc2c6dfe000d49607ef.mp4",
-    "static/media/Screenshot from 2024-11-15 02-40-03.png": "/static/media/Screenshot from 2024-11-15 02-40-03.d9ec23f62665b7fc5ef1.png",
     "static/media/about_us_img.png": "/static/media/about_us_img.c6aa80193e2923c068ac.png",
     "static/media/logo.png": "/static/media/logo.86c4318d3c222d8b8139.png",
     "index.html": "/index.html",
-    "main.1b9efaf6.css.map": "/static/css/main.1b9efaf6.css.map",
-    "main.0ede2d76.js.map": "/static/js/main.0ede2d76.js.map",
+    "main.2069004b.css.map": "/static/css/main.2069004b.css.map",
+    "main.7533361c.js.map": "/static/js/main.7533361c.js.map",
     "453.18e540cc.chunk.js.map": "/static/js/453.18e540cc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b9efaf6.css",
-    "static/js/main.0ede2d76.js"
+    "static/css/main.2069004b.css",
+    "static/js/main.7533361c.js"
   ]
 }

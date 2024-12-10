@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.27fa6c17.css",
-    "main.js": "/static/js/main.6c9ee6da.js",
+    "main.css": "/static/css/main.cda13012.css",
+    "main.js": "/static/js/main.5470a9a3.js",
     "static/js/453.18e540cc.chunk.js": "/static/js/453.18e540cc.chunk.js",
     "static/media/WhatsApp Video 2024-09-18 at 12.28.19.mp4": "/static/media/WhatsApp Video 2024-09-18 at 12.28.19.5850508241060c071b4f.mp4",
     "static/media/flat7.mp4": "/static/media/flat7.4bf25f6b887933507edf.mp4",
@@ -12,24 +12,24 @@
     "static/media/flat4.mp4": "/static/media/flat4.3e16b6d7cfcd9e771085.mp4",
     "static/media/flat2.mp4": "/static/media/flat2.9ed3c4766c1fbdb9e6ab.mp4",
     "static/media/no_sound.mp4": "/static/media/no_sound.d2613ec91e8cb9a9be3f.mp4",
-    "static/media/maldivesVideo.mp4": "/static/media/maldivesVideo.dcc2c6dfe000d49607ef.mp4",
     "static/media/WhatsApp Video 2024-09-18 at 12.24.03.mp4": "/static/media/WhatsApp Video 2024-09-18 at 12.24.03.80536ef009570b5593c5.mp4",
     "static/media/WhatsApp Video 2024-09-18 at 12.25.53.mp4": "/static/media/WhatsApp Video 2024-09-18 at 12.25.53.2d1c6b56c6f6bf5a3642.mp4",
     "static/media/μονωση ταρατσας.mp4": "/static/media/μονωση ταρατσας.8cca409fe9f8c194794c.mp4",
     "static/media/WhatsApp Video 2024-09-18 at 12.23.48.mp4": "/static/media/WhatsApp Video 2024-09-18 at 12.23.48.09813971fbdae1178555.mp4",
     "static/media/landing-page-background.png": "/static/media/landing-page-background.f84afb85ffee3eead7d5.png",
+    "static/media/vector_design.png": "/static/media/vector_design.7e0db709461ebcddb5f7.png",
     "static/media/about_us_img.png": "/static/media/about_us_img.c6aa80193e2923c068ac.png",
     "static/media/logo.png": "/static/media/logo.86c4318d3c222d8b8139.png",
     "static/media/location.jpg": "/static/media/location.fb9c439437d91b09f05b.jpg",
     "static/media/email.jpg": "/static/media/email.87a5e25e8c779a923df9.jpg",
     "static/media/phone-number.jpg": "/static/media/phone-number.02f74b7fde3d5f724619.jpg",
     "index.html": "/index.html",
-    "main.27fa6c17.css.map": "/static/css/main.27fa6c17.css.map",
-    "main.6c9ee6da.js.map": "/static/js/main.6c9ee6da.js.map",
+    "main.cda13012.css.map": "/static/css/main.cda13012.css.map",
+    "main.5470a9a3.js.map": "/static/js/main.5470a9a3.js.map",
     "453.18e540cc.chunk.js.map": "/static/js/453.18e540cc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.27fa6c17.css",
-    "static/js/main.6c9ee6da.js"
+    "static/css/main.cda13012.css",
+    "static/js/main.5470a9a3.js"
   ]
 }
